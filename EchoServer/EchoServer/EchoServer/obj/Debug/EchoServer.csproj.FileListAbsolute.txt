@@ -1,0 +1,7 @@
+C:\Unity\Projects\Echo\EchoSever\EchoServer\EchoServer\bin\Debug\EchoServer.exe.config
+C:\Unity\Projects\Echo\EchoSever\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+C:\Unity\Projects\Echo\EchoSever\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+C:\Unity\Projects\Echo\EchoSever\EchoServer\EchoServer\obj\Debug\EchoServer.csprojAssemblyReference.cache
+C:\Unity\Projects\Echo\EchoSever\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+C:\Unity\Projects\Echo\EchoSever\EchoServer\EchoServer\obj\Debug\EchoServer.exe
+C:\Unity\Projects\Echo\EchoSever\EchoServer\EchoServer\obj\Debug\EchoServer.pdb

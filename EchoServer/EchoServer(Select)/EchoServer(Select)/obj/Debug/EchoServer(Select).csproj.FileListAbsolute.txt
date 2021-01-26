@@ -1,0 +1,14 @@
+C:\Unity\Projects\Echo\EchoSever\EchoServer(Select)\EchoServer(Select)\obj\Debug\EchoServer(Select).csprojAssemblyReference.cache
+C:\Unity\Projects\Echo\EchoSever\EchoServer(Select)\EchoServer(Select)\obj\Debug\EchoServer(Select).csproj.CoreCompileInputs.cache
+C:\Unity\Projects\Echo\EchoSever\EchoServer(Select)\EchoServer(Select)\bin\Debug\EchoServer(Select).exe.config
+C:\Unity\Projects\Echo\EchoSever\EchoServer(Select)\EchoServer(Select)\bin\Debug\EchoServer(Select).exe
+C:\Unity\Projects\Echo\EchoSever\EchoServer(Select)\EchoServer(Select)\bin\Debug\EchoServer(Select).pdb
+C:\Unity\Projects\Echo\EchoSever\EchoServer(Select)\EchoServer(Select)\obj\Debug\EchoServer(Select).exe
+C:\Unity\Projects\Echo\EchoSever\EchoServer(Select)\EchoServer(Select)\obj\Debug\EchoServer(Select).pdb
+C:\Unity\Projects\Echo\EchoServer\EchoServer(Select)\EchoServer(Select)\bin\Debug\EchoServer(Select).exe.config
+C:\Unity\Projects\Echo\EchoServer\EchoServer(Select)\EchoServer(Select)\bin\Debug\EchoServer(Select).exe
+C:\Unity\Projects\Echo\EchoServer\EchoServer(Select)\EchoServer(Select)\bin\Debug\EchoServer(Select).pdb
+C:\Unity\Projects\Echo\EchoServer\EchoServer(Select)\EchoServer(Select)\obj\Debug\EchoServer(Select).csprojAssemblyReference.cache
+C:\Unity\Projects\Echo\EchoServer\EchoServer(Select)\EchoServer(Select)\obj\Debug\EchoServer(Select).csproj.CoreCompileInputs.cache
+C:\Unity\Projects\Echo\EchoServer\EchoServer(Select)\EchoServer(Select)\obj\Debug\EchoServer(Select).exe
+C:\Unity\Projects\Echo\EchoServer\EchoServer(Select)\EchoServer(Select)\obj\Debug\EchoServer(Select).pdb
